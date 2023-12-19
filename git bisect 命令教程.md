@@ -1,8 +1,10 @@
 # git bisect 命令教程
 
-作者： [阮一峰](https://www.ruanyifeng.com/)
-
-日期： [2018年12月24日](https://www.ruanyifeng.com/blog/2018/12/)
+> 阮一峰
+>
+> 2018年12月24日
+>
+> https://www.ruanyifeng.com/blog/2018/12/git-bisect.html
 
 `git bisect`是一个很有用的命令，用来查找哪一次代码提交引入了错误。
 

@@ -1,8 +1,10 @@
 # Git远程操作详解
 
-作者： [阮一峰](https://www.ruanyifeng.com/)
-
-日期： [2014年6月12日](https://www.ruanyifeng.com/blog/2014/06/)
+> 阮一峰
+>
+> 2014年6月12日
+>
+> https://www.ruanyifeng.com/blog/2014/06/git_remote.html
 
 [Git](https://zh.wikipedia.org/wiki/Git)是目前最流行的[版本管理系统](https://www.ruanyifeng.com/blog/2008/12/a_visual_guide_to_version_control.html)，学会Git几乎成了开发者的必备技能。
 

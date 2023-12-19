@@ -1,8 +1,10 @@
 # Git分支管理策略
 
-作者： [阮一峰](https://www.ruanyifeng.com/)
-
-日期： [2012年7月 5日](https://www.ruanyifeng.com/blog/2012/07/)
+>阮一峰
+>
+>2012年7月 5日
+>
+>https://www.ruanyifeng.com/blog/2012/07/git.html
 
 如果你严肃对待编程，就必定会使用"[版本管理系统](https://www.ruanyifeng.com/blog/2008/12/a_visual_guide_to_version_control.html)"（Version Control System）。
 
